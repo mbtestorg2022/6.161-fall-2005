@@ -69,12 +69,57 @@ As part of the pre-lab, you must find and review the equations necessary to comp
 
 The laboratory exercises are an integral part of 6.161, constitute the majority of your learning, and thus the final grade. Each homework problem set makes up a small, but non-negligible portion of the final grade. The two quizzes are obviously very important since they represent 20% of the grade. Your performance on the Final Project is also a very important portion of our evaluation of your overall performance. The approximate percentage values are as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Labs (Active participation in lab, performance on pre-lab, and good laboratory notes will form a significant portion of this grade) | 40% |
-| Homework | 20% |
-| In-class Quizzes and In-class Participation | 20% |
-| Final Project | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Labs (Active participation in lab, performance on pre-lab, and good laboratory notes will form a significant portion of this grade)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+In-class Quizzes and In-class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Project
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  

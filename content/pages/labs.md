@@ -49,15 +49,84 @@ Laboratory Assignments
 
 The laboratory assignments will be made available before the actual lab date. You are required to complete pre-lab exercises before entering the lab. The remaining exercises will be completed in the lab.
 
-| LABS | TOPICS |
-| --- | --- |
-| 1 | Safety, Polarization States of Optical Waves, Dielectric Reflection and Geometric Optics ([PDF]({{< baseurl >}}/resources/lab1)) |
-| 2 | Coherence and Interferometry ([PDF]({{< baseurl >}}/resources/lab2)) |
-| 3 | Diffraction ([PDF]({{< baseurl >}}/resources/lab3)) |
-| 4 | Holography ([PDF]({{< baseurl >}}/resources/lab4)) |
-| 5 | Electro-optic, Acousto-optic and Photorefractive Light Modulation ([PDF]({{< baseurl >}}/resources/lab5)) |
-| 6 | Solid-State and Gas Lasers ([PDF]({{< baseurl >}}/resources/lab6)) |
-| 7 | Optical Waveguides and Fibers ([PDF]({{< baseurl >}}/resources/lab7)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LABS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Safety, Polarization States of Optical Waves, Dielectric Reflection and Geometric Optics ([PDF]({{< baseurl >}}/resources/lab1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Coherence and Interferometry ([PDF]({{< baseurl >}}/resources/lab2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Diffraction ([PDF]({{< baseurl >}}/resources/lab3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Holography ([PDF]({{< baseurl >}}/resources/lab4))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Electro-optic, Acousto-optic and Photorefractive Light Modulation ([PDF]({{< baseurl >}}/resources/lab5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Solid-State and Gas Lasers ([PDF]({{< baseurl >}}/resources/lab6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Optical Waveguides and Fibers ([PDF]({{< baseurl >}}/resources/lab7))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Laboratory Writeup Templates
 ----------------------------
