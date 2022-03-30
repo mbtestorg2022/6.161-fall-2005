@@ -27,7 +27,7 @@ Since this is a laboratory course, the intent is not to dwell on detailed theore
 Prerequisites
 -------------
 
-The prerequisite is [6.003](/courses/6-003-signals-and-systems-fall-2011/). Exceptions can be made by the Lecturer.
+The prerequisite is [6.003](/courses/6-003-signals-and-systems-fall-2011). Exceptions can be made by the Lecturer.
 
 Course Content
 --------------

@@ -4,6 +4,7 @@ description: This resource provides 6 problems on the topic of basic electromagn
   wave phenomena.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-161-modern-optics-project-laboratory-fall-2005/9a50d9ad313204b3f5ddabfa7211aa64_ps1.pdf
 file_type: application/pdf
+parent_uid: 195b81d6-6ee4-d318-e507-300d10636b36
 resourcetype: Document
 title: ps1.pdf
 uid: 9a50d9ad-3132-04b3-f5dd-abfa7211aa64
